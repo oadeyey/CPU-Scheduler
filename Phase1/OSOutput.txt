@@ -1,0 +1,187 @@
+INDIVIDUAL TERMINATION STATISTICS
+Id    Class  Arrival  LoadTime Termination Processing Turnaround Waiting
+24    2      1160     2122     2340        112        1180       1068    
+50    1      4418     4418     4462        44         44         0       
+66    2      4978     6013     6028        15         1050       1035    
+90    3      7206     9557     9698        141        2492       2351    
+131   1      11213    11213    11621       43         408        365     
+153   1      12482    12482    12941       14         459        445     
+188   1      12482    13401    14402       14         1920       1906    
+204   1      15309    15309    15719       44         410        366     
+221   3      15309    16936    16986       50         1677       1627    
+267   1      17120    17328    17977       54         857        803     
+287   1      18346    18360    19012       14         666        652     
+308   1      19942    19942    20150       92         208        116     
+337   1      19942    20323    21137       17         1195       1178    
+364   1      19942    21852    21932       4          1990       1986    
+387   1      21948    22217    22705       4          757        753     
+415   1      23348    23348    23684       15         336        321     
+
+
+
+Id    Class  Arrival  LoadTime Termination Processing Turnaround Waiting
+444   1      23348    23897    24402       16         1054       1038    
+460   1      23348    24643    25329       16         1981       1965    
+492   1      23348    26027    26288       23         2940       2917    
+506   1      23348    28098    28112       14         4764       4750    
+548   1      28777    28777    29338       67         561        494     
+577   1      28777    29491    30036       4          1259       1255    
+588   1      28777    30309    30749       15         1972       1957    
+610   1      28777    31504    32076       63         3299       3236    
+625   1      28777    32715    33004       55         4227       4172    
+671   1      33090    33248    33729       44         639        595     
+695   1      33090    33949    34447       15         1357       1342    
+728   1      35133    35133    35275       56         142        86      
+753   1      35133    35923    36266       15         1133       1118    
+792   1      36458    36458    37415       16         957        941     
+812   1      36458    37763    38106       54         1648       1594    
+889   1      36458    38339    38863       16         2405       2389    
+
+
+
+Id    Class  Arrival  LoadTime Termination Processing Turnaround Waiting
+844   1      36458    39171    39849       54         3391       3337    
+783   1      36458    40342    41238       55         4780       4725    
+902   1      36458    41725    42096       55         5638       5583    
+942   1      36458    42776    43079       15         6621       6606    
+962   1      44249    44249    44722       55         473        418     
+994   1      44249    44892    45538       4          1289       1285    
+1012  1      44249    45756    46288       15         2039       2024    
+1023  1      44249    46638    47152       14         2903       2889    
+997   1      44249    47378    47929       54         3680       3626    
+1114  1      44249    48244    48752       16         4503       4487    
+1088  1      44249    49014    49756       56         5507       5451    
+1121  1      44249    50080    50702       44         6453       6409    
+1166  1      44249    51468    51958       44         7709       7665    
+1193  1      52983    52983    52987       4          4          0       
+1219  1      53656    53656    53698       15         42         27      
+1238  1      53656    53903    54445       14         789        775     
+
+
+
+Id    Class  Arrival  LoadTime Termination Processing Turnaround Waiting
+1273  1      54725    54725    55300       44         575        531     
+1307  1      54725    55404    56376       42         1651       1609    
+1322  1      57150    57150    57449       6          299        293     
+1344  1      57150    57577    58664       54         1514       1460    
+1384  2      57150    58825    59915       189        2765       2576    
+1418  1      57150    60115    61001       2          3851       3849    
+1398  1      57150    61873    62209       54         5059       5005    
+1397  1      57150    62742    62988       14         5838       5824    
+1477  1      64642    64642    64924       4          282        278     
+1484  1      64642    66265    66279       14         1637       1623    
+1541  1      66489    66489    67454       56         965        909     
+1540  1      66489    67594    68443       26         1954       1928    
+1613  2      69067    69067    69674       123        607        484     
+1597  1      69067    69693    70917       70         1850       1780    
+1612  1      69067    71102    71779       10         2712       2702    
+1656  1      69067    71992    72573       4          3506       3502    
+
+
+
+Id    Class  Arrival  LoadTime Termination Processing Turnaround Waiting
+1712  2      69067    72982    73372       36         4305       4269    
+1645  1      69067    74981    74995       14         5928       5914    
+1736  1      75426    75426    76139       44         713        669     
+1767  1      75426    76139    77170       16         1744       1728    
+1785  1      75426    77239    77930       56         2504       2448    
+1796  2      75426    78463    79259       2          3833       3831    
+1838  2      79895    79895    80123       24         228        204     
+1863  1      80360    80360    81209       43         849        806     
+1907  1      80360    81272    81962       56         1602       1546    
+1915  1      83431    83431    83489       4          58         54      
+1942  1      83431    83699    84404       4          973        969     
+1968  1      85108    85108    85453       14         345        331     
+1985  3      85108    86058    86394       29         1286       1257    
+2013  1      86578    87900    87914       14         1336       1322    
+
+
+
+
+Rejected Jobs
+Id:93      is rejected because its requested memory of 167   is > 128 
+Id:146     is rejected because its requested memory of 170   is > 128 
+Id:166     is rejected because its requested memory of 135   is > 128 
+Id:192     is rejected because its requested memory of 185   is > 128 
+Id:212     is rejected because its requested memory of 195   is > 128 
+Id:261     is rejected because its requested memory of 135   is > 128 
+Id:263     is rejected because its requested memory of 229   is > 128 
+Id:294     is rejected because its requested memory of 185   is > 128 
+Id:335     is rejected because its requested memory of 185   is > 128 
+Id:347     is rejected because its requested memory of 185   is > 128 
+Id:355     is rejected because its requested memory of 167   is > 128 
+Id:360     is rejected because its requested memory of 188   is > 128 
+Id:362     is rejected because its requested memory of 229   is > 128 
+Id:412     is rejected because its requested memory of 185   is > 128 
+Id:419     is rejected because its requested memory of 165   is > 128 
+Id:434     is rejected because its requested memory of 188   is > 128 
+Id:479     is rejected because its requested memory of 229   is > 128 
+Id:483     is rejected because its requested memory of 236   is > 128 
+Id:495     is rejected because its requested memory of 167   is > 128 
+Id:528     is rejected because its requested memory of 229   is > 128 
+Id:556     is rejected because its requested memory of 165   is > 128 
+Id:581     is rejected because its requested memory of 167   is > 128 
+Id:599     is rejected because its requested memory of 229   is > 128 
+Id:667     is rejected because its requested memory of 229   is > 128 
+Id:680     is rejected because its requested memory of 236   is > 128 
+Id:692     is rejected because its requested memory of 167   is > 128 
+Id:701     is rejected because its requested memory of 142   is > 128 
+Id:717     is rejected because its requested memory of 149   is > 128 
+Id:730     is rejected because its requested memory of 229   is > 128 
+Id:742     is rejected because its requested memory of 165   is > 128 
+Id:778     is rejected because its requested memory of 167   is > 128 
+Id:790     is rejected because its requested memory of 229   is > 128 
+Id:834     is rejected because its requested memory of 229   is > 128 
+Id:840     is rejected because its requested memory of 236   is > 128 
+Id:921     is rejected because its requested memory of 165   is > 128 
+Id:923     is rejected because its requested memory of 167   is > 128 
+Id:955     is rejected because its requested memory of 229   is > 128 
+Id:1016    is rejected because its requested memory of 229   is > 128 
+Id:1021    is rejected because its requested memory of 167   is > 128 
+Id:1073    is rejected because its requested memory of 165   is > 128 
+Id:1086    is rejected because its requested memory of 236   is > 128 
+Id:1091    is rejected because its requested memory of 229   is > 128 
+Id:1130    is rejected because its requested memory of 167   is > 128 
+Id:1194    is rejected because its requested memory of 229   is > 128 
+Id:1257    is rejected because its requested memory of 229   is > 128 
+Id:1262    is rejected because its requested memory of 165   is > 128 
+Id:1266    is rejected because its requested memory of 167   is > 128 
+Id:1343    is rejected because its requested memory of 236   is > 128 
+Id:1345    is rejected because its requested memory of 229   is > 128 
+Id:1395    is rejected because its requested memory of 167   is > 128 
+Id:1419    is rejected because its requested memory of 229   is > 128 
+Id:1468    is rejected because its requested memory of 165   is > 128 
+Id:1533    is rejected because its requested memory of 229   is > 128 
+Id:1551    is rejected because its requested memory of 167   is > 128 
+Id:1618    is rejected because its requested memory of 236   is > 128 
+Id:1629    is rejected because its requested memory of 229   is > 128 
+Id:1649    is rejected because its requested memory of 167   is > 128 
+Id:1668    is rejected because its requested memory of 165   is > 128 
+Id:1677    is rejected because its requested memory of 229   is > 128 
+Id:1762    is rejected because its requested memory of 229   is > 128 
+Id:1795    is rejected because its requested memory of 256   is > 128 
+Id:1811    is rejected because its requested memory of 167   is > 128 
+Id:1867    is rejected because its requested memory of 236   is > 128 
+Id:1880    is rejected because its requested memory of 229   is > 128 
+Id:1884    is rejected because its requested memory of 165   is > 128 
+Id:1926    is rejected because its requested memory of 167   is > 128 
+Id:1939    is rejected because its requested memory of 180   is > 128 
+Id:1945    is rejected because its requested memory of 229   is > 128 
+Id:2010    is rejected because its requested memory of 229   is > 128 
+Id:2018    is rejected because its requested memory of 256   is > 128 
+Id:2026    is rejected because its requested memory of 167   is > 128 
+Id:2036    is rejected because its requested memory of 165   is > 128 
+
+
+
+
+
+
+Final Termination Statistics 
+Total Number of Jobs Processed: 1967      
+CPU-bound jobs: 1716      
+Balanced Jobs: 169       
+I/O-bound Jobs: 82        
+Average Turnaround Time: 2134      
+Clock Value at Termination: 88467     
+Average Waiting Time: 2089      
